@@ -1,0 +1,3 @@
+class AppColors {
+  final cBlack = "";
+}
